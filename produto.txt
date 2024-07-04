@@ -1,0 +1,6 @@
+10##telefone##100
+10##carro##4
+22##barco##23
+11##lancha##15
+10##carro##10
+10##carro##10
